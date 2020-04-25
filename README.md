@@ -24,4 +24,5 @@
 ### tanks still move through each other but print
 ### the life decreases, but only prints, does not show on the screen
 ### I had to make the screen smaller to fit my computer
-
+#
+### PS: I'm sorry, I really tried, and I watched your videos to get me this far.  I will try even harder for Game #2.
